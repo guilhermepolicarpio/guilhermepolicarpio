@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Guilherme Policarpio. Currently I'am a Software Developer student and now I am learning <strong>Javascript</strong> and Reaxt
+I am Guilherme Policarpio. Currently I'am a Software Developer student and now I am learning <strong>Javascript</strong> and <strong>React</strong>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepolicarpio)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **guilhermepolicarpio/guilhermepolicarpio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
