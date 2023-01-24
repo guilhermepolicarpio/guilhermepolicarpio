@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is Guilherme, I'm a Software Development student ate Driven Education and now I am learning <strong>AWS</strong> and <strong>Docker</strong>.  Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermepolicarpio/)](https://www.linkedin.com/in/guilhermepolicarpio/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/guipolicarpio/)](https://instagram.com/guipolicarpio)
+[![Linkedin Badge](https://img.shields.io/badge/-guilhermepolicarpio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermepolicarpio/)](https://www.linkedin.com/in/guilhermepolicarpio/)
+[![Instagram Badge](https://img.shields.io/badge/-guilhermepolicarpio-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/guipolicarpio/)](https://instagram.com/guipolicarpio)
 [![Gmail Badge](https://img.shields.io/badge/-guilhermepolicarpio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermepolicarpio@gmail.com)](mailto:guilhermepolicarpio@gmail.com)
 
 
