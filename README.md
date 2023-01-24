@@ -7,7 +7,7 @@ My name is Guilherme, I'm a Software Development student ate Driven Education an
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepolicarpio)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepolicarpio&hide=TeX&layout=compact)
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
