@@ -4,6 +4,7 @@ My name is Guilherme, I'm a Software Development student at Driven Education and
 [![Linkedin Badge](https://img.shields.io/badge/-guilhermepolicarpio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermepolicarpio/)](https://www.linkedin.com/in/guilhermepolicarpio/)
 [![Gmail Badge](https://img.shields.io/badge/-guilhermepolicarpio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermepolicarpio@gmail.com)](mailto:guilhermepolicarpio@gmail.com)
 
+## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -25,7 +26,6 @@ My name is Guilherme, I'm a Software Development student at Driven Education and
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepolicarpio)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepolicarpio&hide=TeX&layout=compact)
-## ⚡ Technologies
 
 <!--
 **guilhermepolicarpio/guilhermepolicarpio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
