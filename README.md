@@ -2,13 +2,7 @@
 My name is Guilherme, I'm a Software Development student at Driven Education and now I am learning <strong>AWS</strong> and <strong>Docker</strong>.  Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-guilhermepolicarpio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermepolicarpio/)](https://www.linkedin.com/in/guilhermepolicarpio/)
-[![Instagram Badge](https://img.shields.io/badge/-guilhermepolicarpio-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/guipolicarpio/)](https://instagram.com/guipolicarpio)
 [![Gmail Badge](https://img.shields.io/badge/-guilhermepolicarpio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermepolicarpio@gmail.com)](mailto:guilhermepolicarpio@gmail.com)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepolicarpio)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepolicarpio&hide=TeX&layout=compact)
-## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -27,6 +21,11 @@ My name is Guilherme, I'm a Software Development student at Driven Education and
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepolicarpio)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepolicarpio&hide=TeX&layout=compact)
+## ⚡ Technologies
 
 <!--
 **guilhermepolicarpio/guilhermepolicarpio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
